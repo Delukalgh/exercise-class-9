@@ -99,7 +99,12 @@ var schedule = [
 ]; 
 console.table(schedule);
 
-console.log(`I am taking ${schedule[2][0]} ${schedule[2][1]} that is worth ${schedule[2][2].toFixed(1)} credits`)
+console.log(`I am taking ${schedule[2][0]} ${schedule[2][1]} that is worth ${schedule[2][2].toFixed(1)} credits`)           
+
+
+
+
+
 
 
 
